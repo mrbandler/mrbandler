@@ -8,7 +8,7 @@ Currently neck-deep in local-first architectures and CRDTs, building Flow — a 
 
 ---
 
-<table border="0">
+<table width="100%" border="0">
 <tr>
 <td width="50%" style="border:none">
 
@@ -34,7 +34,7 @@ Currently neck-deep in local-first architectures and CRDTs, building Flow — a 
 
 ---
 
-<table border="0">
+<table width="100%" border="0">
 <tr>
 <td width="50%" style="border:none">
 
@@ -63,7 +63,7 @@ When I'm not automating or writing code:
 
 ## 🛠️ Tech Stack
 
-<table border="0">
+<table width="100%" border="0">
 <tr>
 <td width="50%" valign="top" style="border:none">
 
@@ -130,7 +130,7 @@ Markdown-based knowledge management with CRDT sync. Think Logseq/Obsidian but wi
 
 ## 📊 GitHub Stats
 
-<table border="0">
+<table width="100%" border="0">
 <tr>
 <td width="50%" style="border:none">
 
