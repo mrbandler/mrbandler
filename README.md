@@ -8,9 +8,9 @@ Currently neck-deep in local-first architectures and CRDTs, building Flow — a 
 
 ---
 
-<table>
+<table border="0">
 <tr>
-<td width="50%">
+<td width="50%" style="border:none">
 
 ## 🧭 My Philosophy
 
@@ -19,7 +19,7 @@ Currently neck-deep in local-first architectures and CRDTs, building Flow — a 
 - **Language as Tool** — Under the hood, it's all the same computer. Pick the right tool for the job.
 
 </td>
-<td width="50%">
+<td width="50%" style="border:none">
 
 ## ⚙️ Preferences
 
@@ -34,9 +34,9 @@ Currently neck-deep in local-first architectures and CRDTs, building Flow — a 
 
 ---
 
-<table>
+<table border="0">
 <tr>
-<td width="50%">
+<td width="50%" style="border:none">
 
 ## 🎮 Beyond Code
 
@@ -47,13 +47,12 @@ When I'm not automating or writing code:
 - 🐕‍🦺 **Dog** and 🌱 **plant** dad
 
 </td>
-<td width="50%">
+<td width="50%" style="border:none">
 
 ## 📚 Currently Learning
 
 - **CRDTs** — Conflict-free replicated data types for distributed systems
 - **Loro CRDT** — Exploring for Flow's sync engine
-- **Event Sourcing** — Rethinking state management patterns
 - **Nix Flakes** — Deep dive into reproducible builds
 
 </td>
@@ -64,9 +63,9 @@ When I'm not automating or writing code:
 
 ## 🛠️ Tech Stack
 
-<table>
+<table border="0">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:none">
 
 ### Systems & Infrastructure
 
@@ -89,7 +88,7 @@ When I'm not automating or writing code:
 ![Dagger](https://img.shields.io/badge/Dagger-000000?style=flat&logo=dagger&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:none">
 
 ### Frameworks & Engines
 
@@ -131,14 +130,14 @@ Markdown-based knowledge management with CRDT sync. Think Logseq/Obsidian but wi
 
 ## 📊 GitHub Stats
 
-<table>
+<table border="0">
 <tr>
-<td width="50%">
+<td width="50%" style="border:none">
 
 ![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrbandler&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 </td>
-<td width="50%">
+<td width="50%" style="border:none">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbandler&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
