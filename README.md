@@ -45,8 +45,9 @@ When I'm not automating or writing code:
 
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ### Languages
 
@@ -54,6 +55,7 @@ When I'm not automating or writing code:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Nim](https://img.shields.io/badge/Nim-FFE953?style=flat&logo=nim&logoColor=black)
 
 ### DevOps & CI/CD
 
@@ -61,12 +63,13 @@ When I'm not automating or writing code:
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Dagger](https://img.shields.io/badge/Dagger-000000?style=flat&logo=dagger&logoColor=white)
 
-### Frameworks & Engines
+### Libaries, Frameworks & Engines
 
+![Effect](https://img.shields.io/badge/Effect-000000?style=flat&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
 ### Cloud & Data
 
