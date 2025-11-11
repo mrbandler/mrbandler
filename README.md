@@ -1,6 +1,6 @@
 # Michael Baudler
 
-Software engineer with a decade of experience building systems from the ground up. I've architected game engines, scaled cloud infrastructure, and automated everything that can be automated. My journey spans Unreal and Unity game development, SAP cloud platforms, full-stack web applications, and most recently, diving deep into infrastructure-as-code with NixOS.
+Software engineer with a decade of experience building systems from the ground up. I've architected games, scaled cloud infrastructure, and automated everything that can be automated. My journey spans Unreal and Unity game development, SAP cloud platforms, full-stack web applications, and most recently, diving deep into infrastructure-as-code with NixOS.
 
 I believe in pragmatic engineering — picking the right tool for the problem, not the hype cycle. Whether it's Rust for systems work, TypeScript for rapid iteration, or C++ for performance-critical paths, the language is just the interface. What matters is understanding the machine underneath and building composable, declarative systems that don't fight you.
 
@@ -8,18 +8,11 @@ Currently neck-deep in local-first architectures and CRDTs, building Flow — a 
 
 ---
 
-<table width="100%" border="0">
-<tr>
-<td width="50%" style="border:none">
-
 ## 🧭 My Philosophy
 
 - **Declarative > Imperative** — Define what, not how
 - **Composition > Inheritance** — Build with blocks, not hierarchies
 - **Language as Tool** — Under the hood, it's all the same computer. Pick the right tool for the job.
-
-</td>
-<td width="50%" style="border:none">
 
 ## ⚙️ Preferences
 
@@ -28,15 +21,7 @@ Currently neck-deep in local-first architectures and CRDTs, building Flow — a 
 - 🐚 **Shell:** Nushell with Starship
 - 🖥️ **OS:** NixOS (reproducible everything) with Niri & Quickshell
 
-</td>
-</tr>
-</table>
-
 ---
-
-<table width="100%" border="0">
-<tr>
-<td width="50%" style="border:none">
 
 ## 🎮 Beyond Code
 
@@ -46,26 +31,15 @@ When I'm not automating or writing code:
 - 🗺️ **Worldbuilding** and **conlanging** enthusiast
 - 🐕‍🦺 **Dog** and 🌱 **plant** dad
 
-</td>
-<td width="50%" style="border:none">
-
 ## 📚 Currently Learning
 
 - **CRDTs** — Conflict-free replicated data types for distributed systems
 - **Loro CRDT** — Exploring for Flow's sync engine
 - **Nix Flakes** — Deep dive into reproducible builds
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🛠️ Tech Stack
-
-<table width="100%" border="0">
-<tr>
-<td width="50%" valign="top" style="border:none">
 
 ### Systems & Infrastructure
 
@@ -87,9 +61,6 @@ When I'm not automating or writing code:
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Dagger](https://img.shields.io/badge/Dagger-000000?style=flat&logo=dagger&logoColor=white)
 
-</td>
-<td width="50%" valign="top" style="border:none">
-
 ### Frameworks & Engines
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
@@ -102,10 +73,6 @@ When I'm not automating or writing code:
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -130,20 +97,9 @@ Markdown-based knowledge management with CRDT sync. Think Logseq/Obsidian but wi
 
 ## 📊 GitHub Stats
 
-<table width="100%" border="0">
-<tr>
-<td width="50%" style="border:none">
-
 ![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrbandler&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-</td>
-<td width="50%" style="border:none">
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbandler&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-</td>
-</tr>
-</table>
 
 ---
 
